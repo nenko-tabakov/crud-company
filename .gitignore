@@ -1,6 +1,7 @@
 .gradle
 .idea
 .project
+*.iml
 out
 bin
 build
