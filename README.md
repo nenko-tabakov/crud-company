@@ -118,6 +118,7 @@ __Example:__ `curl -i -X PUT  -H "Content-Type:text/uri-list" -d "http://localho
 
 ## Web Client (Bonus)
 There is web client served under `/app` (e.g. `http://localhost:8080/app`).
+The source code can be found [here](https://github.com/nenko-tabakov/crud-company-ui)
 
 ## Authentication
 This application currently lacks authentication mechanism. The considered protocol is [OpenID Connect](http://openid.net/connect/) as:
